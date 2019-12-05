@@ -5,6 +5,9 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-color: #f5f5f5; 
+  background-image: url(https://cdn.pixabay.com/photo/2017/08/29/12/17/hairdressing-salon-2693077_960_720.jpg);
+  background-size: cover;
 }
 .footer {
   position: absolute;
@@ -16,6 +19,7 @@ body {
   background-color: #f5f5f5;
 }
 table, th, td {
+    background-color: rgba(255,255,255, 0.8);
      border-collapse: collapse;
      border: 1px solid black;
      text-align: center;

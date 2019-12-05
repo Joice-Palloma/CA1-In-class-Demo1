@@ -4,7 +4,7 @@
                 <table id="menuTable" class="indent">
                     <thead>
                         <tr>
-                            <th colspan="3">Paddy's Cafe Menu</th>
+                            <th colspan="3">Jojo's Beauty Saloon</th>
                         </tr>
                         <tr>
                             <th>Select</th>
@@ -21,9 +21,9 @@
                             </tr>
                             <xsl:for-each select="entree">
                             <tr id="{position()}">
-                                <xsl:attribute name="vegetarian">
-                                    <xsl:value-of select="boolean(./@vegetarian)" />
-                                </xsl:attribute>
+                                <!--<xsl:attribute name="vegetarian"> -->
+                                 <!--  <xsl:value-of select="boolean(./@vegetarian)" /> -->
+                                <!--</xsl:attribute>-->
                                 <td align="center">
                                     <input name="item0" type="checkbox" />
                                 </td>
