@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<cafemenu>
+<menu>
   <section name="Nails">
     <entree>
       <item>Hands</item>
@@ -48,4 +48,4 @@
       <price>9.79</price>
     </entree>
   </section>
-</cafemenu>
+</menu>
