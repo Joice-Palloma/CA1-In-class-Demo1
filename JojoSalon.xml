@@ -48,4 +48,18 @@
       <price>9.79</price>
     </entree>
   </section>
+  <section name="Massage">
+    <entree>
+      <item>Swedish massage</item>
+      <price>80.00</price>
+    </entree>
+    <entree>
+      <item>Signature massage</item>
+      <price>90.00</price>
+    </entree>
+    <entree>
+      <item>Back massage</item>
+      <price>85.00</price>
+    </entree>
+  </section>
 </menu>
